@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Shilo Wexler 👋</h1>
+<h1 align="center">Hey, I'm Shilo Wexler </h1>
 
 <p align="center">
   Physics & Computer Science student · Open University of Israel<br>
@@ -7,7 +7,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 I'm a CS and Physics student at the **Open University of Israel**, in the early stages of an academic and technical journey I genuinely enjoy.
 
@@ -17,7 +17,7 @@ I'm currently building the foundations: studying deeply, shipping real projects,
 
 ---
 
-## 📚 Currently Studying
+##  Currently Studying
 
 | Course | Topics |
 |---|---|
@@ -28,7 +28,7 @@ I'm currently building the foundations: studying deeply, shipping real projects,
 
 ---
 
-## 🔭 Projects
+##  Projects
 
 ### [`PhotoIntel`](https://github.com/Shilo-Wexler/PhotoIntel)
 Forensic image analysis tool — extracts and analyzes metadata from image files to support digital investigation workflows.
@@ -41,7 +41,7 @@ A data parsing utility that processes structured log files, extracts meaningful 
 
 ---
 
-## 🛠️ Tech & Tools
+##  Tech & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -51,7 +51,7 @@ A data parsing utility that processes structured log files, extracts meaningful 
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shilo-Wexler&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
@@ -60,7 +60,7 @@ A data parsing utility that processes structured log files, extracts meaningful 
 
 ---
 
-## 📫 Contact
+##  Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shilo_Wexler-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shilo-wexler)
 [![Email](https://img.shields.io/badge/Email-shilowexler@icloud.com-D14836?style=flat-square&logo=apple)](mailto:shilowexler@icloud.com)
